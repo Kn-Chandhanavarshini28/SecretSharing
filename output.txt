@@ -1,0 +1,10 @@
+Test case 1:
+
+{
+  "secret": 3,
+  "wrongShares": []
+}
+
+Test case 2:
+
+{'secret': 197837, 'wrongShares': [8, 9, 10]}
